@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=A020F0&center=true&width=435&lines=Seja+muito+bem-vindo+ao+meu+Git!)](https://git.io/typing-svg)
 
-![MasterHead](https://media.tenor.com/BrNtIejIcXUAAAAC/pixel-art.gif)
+![MasterHead](https://64.media.tumblr.com/6b9d5fbcc7d6ebe2c3636ed25a550787/f02e19988b551a66-43/s1280x1920/311bc898f00d0bea349351a7a36333f9f659f645.gif)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/toxxicd3mn/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-j%C3%BAnio-de-castro-silva-206503275/)
