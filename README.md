@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=A020F0&center=true&width=435&lines=Ola!+Eu+sou+o+Webber!+%F0%9F%96%96%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=A020F0&center=true&width=435&lines=Olá!+Eu+sou+o+Webber!+%F0%9F%96%96%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=A020F0&center=true&width=435&lines=Seja+muito+bem-vindo+ao+meu+Git!)](https://git.io/typing-svg)
 
